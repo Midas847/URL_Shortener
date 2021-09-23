@@ -1,3 +1,3 @@
 ﻿# URL_Shortener
-# To rum in your local host type :
+# To run in your local host type :
 # npm run devStart
